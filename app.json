@@ -15,8 +15,8 @@
     "uploader"
   ],
   "success_url": "https://telegram.dog/DoremonUploadBOt",
-  "website": "https://github.com/CyberBoyAyush/URL-Upload-Bot",
-  "repository": "https://github.com/CyberBoyAyush/URL-Upload-Bot",
+  "website": "https://github.com/Ravi12ndu/url-uploader",
+  "repository": "https://github.com/Ravi12ndu/url-uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
